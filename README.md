@@ -25,7 +25,16 @@ https://doi.org/10.13026/hmhs-py35 and place them in `labels/`, `motion/` and
 Run `final_project_laho.ipynb` from top to bottom.
 
 ## Citations
-(keep your three citations unchanged)
+Resource Citation
+Walch, O. (2019). Motion and heart rate from a wrist-worn wearable and labeled sleep from polysomnography (version 1.0.0). PhysioNet. RRID:SCR_007345. https://doi.org/10.13026/hmhs-py35
+
+Original Publication
+Olivia Walch, Yitong Huang, Daniel Forger, Cathy Goldstein, Sleep stage prediction with raw acceleration and photoplethysmography heart rate data derived from a consumer wearable device, Sleep https://doi.org/10.1093/sleep/zsz180
+
+Platform Citation
+Pollard, T., Moody, B. E., Lehman, L., Gow, B., Fernandes, C., Xie, C., Johnson, A., Mark, R. G., & Heldt, T. (2026). PhysioNet as a global platform for biomedical research. Nature Health. https://doi.org/10.1038/s44360-026-00096-z. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC13641116/
+Data License
+The underlying source data components are made available under the Open Data Commons Attribution License (ODC-By) v1.0.
 
 ## License
 Source data: Open Data Commons Attribution License (ODC-By) v1.0.
