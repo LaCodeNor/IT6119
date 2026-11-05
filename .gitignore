@@ -1,0 +1,16 @@
+# Raw PhysioNet data (ODC-By; cite in README, do not redistribute)
+*.txt
+*.zip
+!requirements.txt
+
+# Data folders
+motion/
+heart_rate/
+steps/
+labels/
+
+# Derived data and Jupyter/Python clutter
+*.parquet
+*.csv
+.ipynb_checkpoints/
+__pycache__/
